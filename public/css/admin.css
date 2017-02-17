@@ -1,0 +1,17 @@
+.container {
+	width: 600px;
+	margin: 20px auto;
+}
+ul {
+	list-style: none;
+}
+h1 {
+	text-align: center;
+}
+h3 {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+a, a:hover {
+	color: inherit;
+}
